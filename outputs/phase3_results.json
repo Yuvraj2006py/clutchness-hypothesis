@@ -1,0 +1,360 @@
+{
+  "test3_ts_comparison": {
+    "Jimmy Butler III": {
+      "clutch_ts": 0.5255,
+      "overall_ts": 0.6051,
+      "diff": -0.0796
+    },
+    "Kawhi Leonard": {
+      "clutch_ts": 0.5493,
+      "overall_ts": 0.61,
+      "diff": -0.0607
+    },
+    "Devin Booker": {
+      "clutch_ts": 0.5322,
+      "overall_ts": 0.5914,
+      "diff": -0.0592
+    },
+    "Donovan Mitchell": {
+      "clutch_ts": 0.5108,
+      "overall_ts": 0.5694,
+      "diff": -0.0586
+    },
+    "Luka Don\u010di\u0107": {
+      "clutch_ts": 0.5377,
+      "overall_ts": 0.588,
+      "diff": -0.0503
+    },
+    "Kevin Durant": {
+      "clutch_ts": 0.5934,
+      "overall_ts": 0.6417,
+      "diff": -0.0483
+    },
+    "LeBron James": {
+      "clutch_ts": 0.5671,
+      "overall_ts": 0.6039,
+      "diff": -0.0367
+    },
+    "Anthony Edwards": {
+      "clutch_ts": 0.5324,
+      "overall_ts": 0.566,
+      "diff": -0.0336
+    },
+    "Nikola Joki\u0107": {
+      "clutch_ts": 0.6099,
+      "overall_ts": 0.6413,
+      "diff": -0.0313
+    },
+    "Damian Lillard": {
+      "clutch_ts": 0.578,
+      "overall_ts": 0.608,
+      "diff": -0.03
+    },
+    "Ja Morant": {
+      "clutch_ts": 0.5302,
+      "overall_ts": 0.5583,
+      "diff": -0.0281
+    },
+    "Giannis Antetokounmpo": {
+      "clutch_ts": 0.5989,
+      "overall_ts": 0.6247,
+      "diff": -0.0258
+    },
+    "Jayson Tatum": {
+      "clutch_ts": 0.5628,
+      "overall_ts": 0.583,
+      "diff": -0.0201
+    },
+    "Trae Young": {
+      "clutch_ts": 0.5681,
+      "overall_ts": 0.5789,
+      "diff": -0.0108
+    },
+    "Stephen Curry": {
+      "clutch_ts": 0.625,
+      "overall_ts": 0.6357,
+      "diff": -0.0108
+    },
+    "Russell Westbrook": {
+      "clutch_ts": 0.5075,
+      "overall_ts": 0.5173,
+      "diff": -0.0098
+    },
+    "Kyrie Irving": {
+      "clutch_ts": 0.6003,
+      "overall_ts": 0.6035,
+      "diff": -0.0031
+    },
+    "De'Aaron Fox": {
+      "clutch_ts": 0.5559,
+      "overall_ts": 0.5569,
+      "diff": -0.001
+    },
+    "Joel Embiid": {
+      "clutch_ts": 0.6179,
+      "overall_ts": 0.6164,
+      "diff": 0.0015
+    },
+    "Shai Gilgeous-Alexander": {
+      "clutch_ts": 0.6207,
+      "overall_ts": 0.6073,
+      "diff": 0.0134
+    },
+    "Paul George": {
+      "clutch_ts": 0.6069,
+      "overall_ts": 0.5819,
+      "diff": 0.025
+    },
+    "Chris Paul": {
+      "clutch_ts": 0.6351,
+      "overall_ts": 0.5828,
+      "diff": 0.0523
+    }
+  },
+  "test4_ft_stripped": {
+    "Joel Embiid": {
+      "clutch_ts": 0.6179,
+      "ft_stripped_eff": 0.4965,
+      "ft_boost": 0.1214,
+      "ft_share_of_pts": 0.4114
+    },
+    "Jimmy Butler III": {
+      "clutch_ts": 0.5255,
+      "ft_stripped_eff": 0.4158,
+      "ft_boost": 0.1097,
+      "ft_share_of_pts": 0.3842
+    },
+    "Paul George": {
+      "clutch_ts": 0.6069,
+      "ft_stripped_eff": 0.4986,
+      "ft_boost": 0.1083,
+      "ft_share_of_pts": 0.3565
+    },
+    "Damian Lillard": {
+      "clutch_ts": 0.578,
+      "ft_stripped_eff": 0.4741,
+      "ft_boost": 0.1039,
+      "ft_share_of_pts": 0.3345
+    },
+    "Trae Young": {
+      "clutch_ts": 0.5681,
+      "ft_stripped_eff": 0.4645,
+      "ft_boost": 0.1036,
+      "ft_share_of_pts": 0.3506
+    },
+    "Shai Gilgeous-Alexander": {
+      "clutch_ts": 0.6207,
+      "ft_stripped_eff": 0.5266,
+      "ft_boost": 0.0941,
+      "ft_share_of_pts": 0.3415
+    },
+    "Kevin Durant": {
+      "clutch_ts": 0.5934,
+      "ft_stripped_eff": 0.5011,
+      "ft_boost": 0.0923,
+      "ft_share_of_pts": 0.3129
+    },
+    "Jayson Tatum": {
+      "clutch_ts": 0.5628,
+      "ft_stripped_eff": 0.4737,
+      "ft_boost": 0.0891,
+      "ft_share_of_pts": 0.3189
+    },
+    "Ja Morant": {
+      "clutch_ts": 0.5302,
+      "ft_stripped_eff": 0.4439,
+      "ft_boost": 0.0863,
+      "ft_share_of_pts": 0.3372
+    },
+    "Chris Paul": {
+      "clutch_ts": 0.6351,
+      "ft_stripped_eff": 0.5489,
+      "ft_boost": 0.0862,
+      "ft_share_of_pts": 0.3067
+    },
+    "Devin Booker": {
+      "clutch_ts": 0.5322,
+      "ft_stripped_eff": 0.4467,
+      "ft_boost": 0.0855,
+      "ft_share_of_pts": 0.3057
+    },
+    "Kawhi Leonard": {
+      "clutch_ts": 0.5493,
+      "ft_stripped_eff": 0.4646,
+      "ft_boost": 0.0847,
+      "ft_share_of_pts": 0.2889
+    },
+    "Kyrie Irving": {
+      "clutch_ts": 0.6003,
+      "ft_stripped_eff": 0.5258,
+      "ft_boost": 0.0745,
+      "ft_share_of_pts": 0.2568
+    },
+    "Stephen Curry": {
+      "clutch_ts": 0.625,
+      "ft_stripped_eff": 0.5508,
+      "ft_boost": 0.0741,
+      "ft_share_of_pts": 0.2471
+    },
+    "Nikola Joki\u0107": {
+      "clutch_ts": 0.6099,
+      "ft_stripped_eff": 0.5371,
+      "ft_boost": 0.0728,
+      "ft_share_of_pts": 0.2857
+    },
+    "Donovan Mitchell": {
+      "clutch_ts": 0.5108,
+      "ft_stripped_eff": 0.4404,
+      "ft_boost": 0.0704,
+      "ft_share_of_pts": 0.2705
+    },
+    "Giannis Antetokounmpo": {
+      "clutch_ts": 0.5989,
+      "ft_stripped_eff": 0.5397,
+      "ft_boost": 0.0592,
+      "ft_share_of_pts": 0.3053
+    },
+    "De'Aaron Fox": {
+      "clutch_ts": 0.5559,
+      "ft_stripped_eff": 0.4969,
+      "ft_boost": 0.059,
+      "ft_share_of_pts": 0.2387
+    },
+    "Anthony Edwards": {
+      "clutch_ts": 0.5324,
+      "ft_stripped_eff": 0.4761,
+      "ft_boost": 0.0563,
+      "ft_share_of_pts": 0.2301
+    },
+    "Russell Westbrook": {
+      "clutch_ts": 0.5075,
+      "ft_stripped_eff": 0.4569,
+      "ft_boost": 0.0506,
+      "ft_share_of_pts": 0.2274
+    },
+    "Luka Don\u010di\u0107": {
+      "clutch_ts": 0.5377,
+      "ft_stripped_eff": 0.4908,
+      "ft_boost": 0.0469,
+      "ft_share_of_pts": 0.2157
+    },
+    "LeBron James": {
+      "clutch_ts": 0.5671,
+      "ft_stripped_eff": 0.5279,
+      "ft_boost": 0.0393,
+      "ft_share_of_pts": 0.2079
+    }
+  },
+  "test5_usage_spike": {
+    "Ja Morant": {
+      "avg_clutch_fga_share": 0.2983,
+      "avg_overall_fga_share": 0.143,
+      "fga_share_spike_pct": 108.6
+    },
+    "Jimmy Butler III": {
+      "avg_clutch_fga_share": 0.2386,
+      "avg_overall_fga_share": 0.1175,
+      "fga_share_spike_pct": 103.1
+    },
+    "Trae Young": {
+      "avg_clutch_fga_share": 0.3321,
+      "avg_overall_fga_share": 0.1803,
+      "fga_share_spike_pct": 84.2
+    },
+    "Donovan Mitchell": {
+      "avg_clutch_fga_share": 0.352,
+      "avg_overall_fga_share": 0.1916,
+      "fga_share_spike_pct": 83.8
+    },
+    "De'Aaron Fox": {
+      "avg_clutch_fga_share": 0.2832,
+      "avg_overall_fga_share": 0.1575,
+      "fga_share_spike_pct": 79.8
+    },
+    "Nikola Joki\u0107": {
+      "avg_clutch_fga_share": 0.3086,
+      "avg_overall_fga_share": 0.1726,
+      "fga_share_spike_pct": 78.8
+    },
+    "Kyrie Irving": {
+      "avg_clutch_fga_share": 0.2454,
+      "avg_overall_fga_share": 0.138,
+      "fga_share_spike_pct": 77.8
+    },
+    "LeBron James": {
+      "avg_clutch_fga_share": 0.3099,
+      "avg_overall_fga_share": 0.176,
+      "fga_share_spike_pct": 76.1
+    },
+    "Kawhi Leonard": {
+      "avg_clutch_fga_share": 0.2466,
+      "avg_overall_fga_share": 0.1419,
+      "fga_share_spike_pct": 73.8
+    },
+    "Stephen Curry": {
+      "avg_clutch_fga_share": 0.2944,
+      "avg_overall_fga_share": 0.1727,
+      "fga_share_spike_pct": 70.4
+    },
+    "Kevin Durant": {
+      "avg_clutch_fga_share": 0.2615,
+      "avg_overall_fga_share": 0.1559,
+      "fga_share_spike_pct": 67.7
+    },
+    "Damian Lillard": {
+      "avg_clutch_fga_share": 0.283,
+      "avg_overall_fga_share": 0.1716,
+      "fga_share_spike_pct": 64.9
+    },
+    "Chris Paul": {
+      "avg_clutch_fga_share": 0.1665,
+      "avg_overall_fga_share": 0.1037,
+      "fga_share_spike_pct": 60.5
+    },
+    "Joel Embiid": {
+      "avg_clutch_fga_share": 0.2434,
+      "avg_overall_fga_share": 0.155,
+      "fga_share_spike_pct": 57.0
+    },
+    "Devin Booker": {
+      "avg_clutch_fga_share": 0.272,
+      "avg_overall_fga_share": 0.1809,
+      "fga_share_spike_pct": 50.4
+    },
+    "Russell Westbrook": {
+      "avg_clutch_fga_share": 0.2436,
+      "avg_overall_fga_share": 0.1658,
+      "fga_share_spike_pct": 46.9
+    },
+    "Shai Gilgeous-Alexander": {
+      "avg_clutch_fga_share": 0.2302,
+      "avg_overall_fga_share": 0.1572,
+      "fga_share_spike_pct": 46.4
+    },
+    "Luka Don\u010di\u0107": {
+      "avg_clutch_fga_share": 0.2803,
+      "avg_overall_fga_share": 0.1926,
+      "fga_share_spike_pct": 45.5
+    },
+    "Anthony Edwards": {
+      "avg_clutch_fga_share": 0.2849,
+      "avg_overall_fga_share": 0.203,
+      "fga_share_spike_pct": 40.4
+    },
+    "Jayson Tatum": {
+      "avg_clutch_fga_share": 0.2551,
+      "avg_overall_fga_share": 0.1849,
+      "fga_share_spike_pct": 38.0
+    },
+    "Giannis Antetokounmpo": {
+      "avg_clutch_fga_share": 0.2383,
+      "avg_overall_fga_share": 0.1804,
+      "fga_share_spike_pct": 32.1
+    },
+    "Paul George": {
+      "avg_clutch_fga_share": 0.1778,
+      "avg_overall_fga_share": 0.1442,
+      "fga_share_spike_pct": 23.3
+    }
+  }
+}

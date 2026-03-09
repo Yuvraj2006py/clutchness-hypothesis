@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# Data (large raw files)
+data/*.csv
+data/gamelogs/
+data/*.log
+
+# Generated PDF/DOCX (regenerate with make_pdf.py)
+outputs/*.pdf
+outputs/*.docx
+outputs/_report_temp.html
+main.pdf
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

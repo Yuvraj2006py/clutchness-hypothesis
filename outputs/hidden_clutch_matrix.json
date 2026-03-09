@@ -1,0 +1,64 @@
+{
+  "reputation_better": 2,
+  "reputation_worse": 13,
+  "reputation_same": 7,
+  "reputation_total": 22,
+  "non_reputation_better": 102,
+  "non_reputation_worse": 152,
+  "non_reputation_total": 609,
+  "hidden_repeatable_count": 17,
+  "hidden_repeatable_top5": [
+    {
+      "player_name": "Terance Mann",
+      "r": 0.9589230174483396,
+      "n_pairs": 4
+    },
+    {
+      "player_name": "Jaren Jackson Jr.",
+      "r": 0.9588156417857494,
+      "n_pairs": 4
+    },
+    {
+      "player_name": "Ricky Rubio",
+      "r": 0.8502613457280896,
+      "n_pairs": 4
+    },
+    {
+      "player_name": "Isaac Okoro",
+      "r": 0.7989242532753396,
+      "n_pairs": 4
+    },
+    {
+      "player_name": "Anfernee Simons",
+      "r": 0.7907238306335251,
+      "n_pairs": 5
+    }
+  ],
+  "hidden_better_top5": [
+    {
+      "player_name": "Mike Scott",
+      "ts_diff": 0.20086187084092677,
+      "clutch_gp": 48
+    },
+    {
+      "player_name": "Gabe Vincent",
+      "ts_diff": 0.17415295333028813,
+      "clutch_gp": 68
+    },
+    {
+      "player_name": "Jamal Crawford",
+      "ts_diff": 0.15146431318364495,
+      "clutch_gp": 42
+    },
+    {
+      "player_name": "Chris Boucher",
+      "ts_diff": 0.14284768410560278,
+      "clutch_gp": 57
+    },
+    {
+      "player_name": "Derrick Favors",
+      "ts_diff": 0.12652029074441595,
+      "clutch_gp": 62
+    }
+  ]
+}

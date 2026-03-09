@@ -1,0 +1,372 @@
+{
+  "test6_assist_ratio": {
+    "league_clutch_ast_fgm": 0.6499,
+    "league_overall_ast_fgm": 0.6346,
+    "league_drop_pct": 2.4,
+    "players": {
+      "Chris Paul": {
+        "clutch_ast_fgm": 0.8588,
+        "overall_ast_fgm": 1.6006,
+        "diff": -0.7418,
+        "pct_change": -46.3
+      },
+      "Trae Young": {
+        "clutch_ast_fgm": 0.7397,
+        "overall_ast_fgm": 1.2285,
+        "diff": -0.4888,
+        "pct_change": -39.8
+      },
+      "Russell Westbrook": {
+        "clutch_ast_fgm": 0.7673,
+        "overall_ast_fgm": 1.1058,
+        "diff": -0.3384,
+        "pct_change": -30.6
+      },
+      "Ja Morant": {
+        "clutch_ast_fgm": 0.5662,
+        "overall_ast_fgm": 0.904,
+        "diff": -0.3378,
+        "pct_change": -37.4
+      },
+      "De'Aaron Fox": {
+        "clutch_ast_fgm": 0.457,
+        "overall_ast_fgm": 0.7748,
+        "diff": -0.3179,
+        "pct_change": -41.0
+      },
+      "Jimmy Butler III": {
+        "clutch_ast_fgm": 0.5127,
+        "overall_ast_fgm": 0.8019,
+        "diff": -0.2892,
+        "pct_change": -36.1
+      },
+      "Nikola Jokić": {
+        "clutch_ast_fgm": 0.6364,
+        "overall_ast_fgm": 0.8896,
+        "diff": -0.2532,
+        "pct_change": -28.5
+      },
+      "Stephen Curry": {
+        "clutch_ast_fgm": 0.4085,
+        "overall_ast_fgm": 0.6433,
+        "diff": -0.2348,
+        "pct_change": -36.5
+      },
+      "LeBron James": {
+        "clutch_ast_fgm": 0.5947,
+        "overall_ast_fgm": 0.814,
+        "diff": -0.2193,
+        "pct_change": -26.9
+      },
+      "Damian Lillard": {
+        "clutch_ast_fgm": 0.6556,
+        "overall_ast_fgm": 0.8441,
+        "diff": -0.1885,
+        "pct_change": -22.3
+      },
+      "Kevin Durant": {
+        "clutch_ast_fgm": 0.3979,
+        "overall_ast_fgm": 0.5504,
+        "diff": -0.1525,
+        "pct_change": -27.7
+      },
+      "Kyrie Irving": {
+        "clutch_ast_fgm": 0.4458,
+        "overall_ast_fgm": 0.5956,
+        "diff": -0.1498,
+        "pct_change": -25.1
+      },
+      "Donovan Mitchell": {
+        "clutch_ast_fgm": 0.3952,
+        "overall_ast_fgm": 0.536,
+        "diff": -0.1409,
+        "pct_change": -26.3
+      },
+      "Anthony Edwards": {
+        "clutch_ast_fgm": 0.3806,
+        "overall_ast_fgm": 0.5,
+        "diff": -0.1194,
+        "pct_change": -23.9
+      },
+      "Shai Gilgeous-Alexander": {
+        "clutch_ast_fgm": 0.4855,
+        "overall_ast_fgm": 0.599,
+        "diff": -0.1135,
+        "pct_change": -18.9
+      },
+      "Luka Dončić": {
+        "clutch_ast_fgm": 0.7465,
+        "overall_ast_fgm": 0.8488,
+        "diff": -0.1023,
+        "pct_change": -12.1
+      },
+      "Devin Booker": {
+        "clutch_ast_fgm": 0.5631,
+        "overall_ast_fgm": 0.6394,
+        "diff": -0.0763,
+        "pct_change": -11.9
+      },
+      "Kawhi Leonard": {
+        "clutch_ast_fgm": 0.381,
+        "overall_ast_fgm": 0.4489,
+        "diff": -0.0679,
+        "pct_change": -15.1
+      },
+      "Paul George": {
+        "clutch_ast_fgm": 0.4828,
+        "overall_ast_fgm": 0.5379,
+        "diff": -0.0552,
+        "pct_change": -10.3
+      },
+      "Giannis Antetokounmpo": {
+        "clutch_ast_fgm": 0.5268,
+        "overall_ast_fgm": 0.5434,
+        "diff": -0.0167,
+        "pct_change": -3.1
+      },
+      "Jayson Tatum": {
+        "clutch_ast_fgm": 0.4522,
+        "overall_ast_fgm": 0.4684,
+        "diff": -0.0162,
+        "pct_change": -3.5
+      },
+      "Joel Embiid": {
+        "clutch_ast_fgm": 0.4286,
+        "overall_ast_fgm": 0.399,
+        "diff": 0.0296,
+        "pct_change": 7.4
+      }
+    }
+  },
+  "test7_home_away": {
+    "league_home_ts": 0.5642,
+    "league_road_ts": 0.5513,
+    "players": {
+      "Kawhi Leonard": {
+        "home_ts": 0.6143,
+        "road_ts": 0.5015,
+        "diff": 0.1129
+      },
+      "Kyrie Irving": {
+        "home_ts": 0.6552,
+        "road_ts": 0.5594,
+        "diff": 0.0958
+      },
+      "Giannis Antetokounmpo": {
+        "home_ts": 0.6367,
+        "road_ts": 0.5583,
+        "diff": 0.0784
+      },
+      "Russell Westbrook": {
+        "home_ts": 0.5437,
+        "road_ts": 0.4721,
+        "diff": 0.0716
+      },
+      "Jimmy Butler III": {
+        "home_ts": 0.5536,
+        "road_ts": 0.4931,
+        "diff": 0.0605
+      },
+      "Chris Paul": {
+        "home_ts": 0.6612,
+        "road_ts": 0.6069,
+        "diff": 0.0543
+      },
+      "Nikola Jokić": {
+        "home_ts": 0.6374,
+        "road_ts": 0.5866,
+        "diff": 0.0508
+      },
+      "Donovan Mitchell": {
+        "home_ts": 0.5373,
+        "road_ts": 0.4897,
+        "diff": 0.0476
+      },
+      "Shai Gilgeous-Alexander": {
+        "home_ts": 0.645,
+        "road_ts": 0.6005,
+        "diff": 0.0445
+      },
+      "Kevin Durant": {
+        "home_ts": 0.611,
+        "road_ts": 0.5763,
+        "diff": 0.0347
+      },
+      "Anthony Edwards": {
+        "home_ts": 0.5424,
+        "road_ts": 0.5206,
+        "diff": 0.0217
+      },
+      "Luka Dončić": {
+        "home_ts": 0.5418,
+        "road_ts": 0.532,
+        "diff": 0.0098
+      },
+      "Damian Lillard": {
+        "home_ts": 0.5797,
+        "road_ts": 0.5745,
+        "diff": 0.0052
+      },
+      "Ja Morant": {
+        "home_ts": 0.5336,
+        "road_ts": 0.5359,
+        "diff": -0.0023
+      },
+      "Joel Embiid": {
+        "home_ts": 0.611,
+        "road_ts": 0.6177,
+        "diff": -0.0066
+      },
+      "Paul George": {
+        "home_ts": 0.5998,
+        "road_ts": 0.6123,
+        "diff": -0.0125
+      },
+      "Stephen Curry": {
+        "home_ts": 0.6164,
+        "road_ts": 0.6327,
+        "diff": -0.0164
+      },
+      "Jayson Tatum": {
+        "home_ts": 0.5547,
+        "road_ts": 0.5713,
+        "diff": -0.0166
+      },
+      "Devin Booker": {
+        "home_ts": 0.5226,
+        "road_ts": 0.54,
+        "diff": -0.0175
+      },
+      "Trae Young": {
+        "home_ts": 0.5608,
+        "road_ts": 0.5819,
+        "diff": -0.0211
+      },
+      "LeBron James": {
+        "home_ts": 0.5568,
+        "road_ts": 0.5803,
+        "diff": -0.0235
+      },
+      "De'Aaron Fox": {
+        "home_ts": 0.5439,
+        "road_ts": 0.5682,
+        "diff": -0.0243
+      }
+    }
+  },
+  "test8_miss_rate": {
+    "LeBron James": {
+      "clutch_fga": 646,
+      "clutch_fgm": 301,
+      "clutch_misses": 345,
+      "miss_rate": 0.5341,
+      "clutch_fg_pct": 0.4659,
+      "overall_fg_pct": 0.5179
+    },
+    "Kyrie Irving": {
+      "clutch_fga": 542,
+      "clutch_fgm": 249,
+      "clutch_misses": 293,
+      "miss_rate": 0.5406,
+      "clutch_fg_pct": 0.4594,
+      "overall_fg_pct": 0.4891
+    },
+    "Damian Lillard": {
+      "clutch_fga": 598,
+      "clutch_fgm": 241,
+      "clutch_misses": 357,
+      "miss_rate": 0.597,
+      "clutch_fg_pct": 0.403,
+      "overall_fg_pct": 0.4445
+    }
+  },
+  "outliers": [
+    {
+      "player_name": "Rui Hachimura",
+      "r": 0.9993,
+      "n_pairs": 3,
+      "is_reputation": false
+    },
+    {
+      "player_name": "Devin Vassell",
+      "r": 0.9718,
+      "n_pairs": 3,
+      "is_reputation": false
+    },
+    {
+      "player_name": "Damion Lee",
+      "r": 0.9716,
+      "n_pairs": 3,
+      "is_reputation": false
+    },
+    {
+      "player_name": "Josh Giddey",
+      "r": 0.96,
+      "n_pairs": 3,
+      "is_reputation": false
+    },
+    {
+      "player_name": "Terance Mann",
+      "r": 0.9589,
+      "n_pairs": 4,
+      "is_reputation": false
+    },
+    {
+      "player_name": "Jaren Jackson Jr.",
+      "r": 0.9588,
+      "n_pairs": 4,
+      "is_reputation": false
+    },
+    {
+      "player_name": "Lou Williams",
+      "r": 0.8904,
+      "n_pairs": 3,
+      "is_reputation": false
+    },
+    {
+      "player_name": "Anthony Edwards",
+      "r": 0.8699,
+      "n_pairs": 4,
+      "is_reputation": true
+    },
+    {
+      "player_name": "Jayson Tatum",
+      "r": 0.8522,
+      "n_pairs": 7,
+      "is_reputation": true
+    },
+    {
+      "player_name": "Ricky Rubio",
+      "r": 0.8503,
+      "n_pairs": 4,
+      "is_reputation": false
+    }
+  ],
+  "caveats": [
+    {
+      "id": "era_effects",
+      "title": "Era and rule changes (2017-2025)",
+      "detail": "The 8-season window spans significant rule changes: the 2018-19 freedom-of-movement emphasis, the 2020 bubble, and the 2023 take-foul rule. Pace increased ~5%% across this span. Clutch behavior may shift with rules, not just player skill."
+    },
+    {
+      "id": "survivorship_bias",
+      "title": "Survivorship bias",
+      "detail": "Only players who remained in the league and met the 10-game clutch filter appear in the data. Players who were benched or cut partly due to poor clutch play are excluded, which could artificially narrow the TS%% distribution."
+    },
+    {
+      "id": "sample_size",
+      "title": "Small clutch sample sizes",
+      "detail": "The median player-season has only ~25 clutch possessions (~3.6%% of total). Individual player conclusions are unreliable; aggregate patterns are more trustworthy."
+    },
+    {
+      "id": "defensive_context",
+      "title": "Defensive attention in clutch",
+      "detail": "Stars face tighter defensive schemes in clutch situations. A TS%% drop may reflect elevated defensive pressure rather than a player 'choking.' This is a confound, not a rebuttal."
+    },
+    {
+      "id": "ast_fgm_limitation",
+      "title": "AST/FGM is a rough isolation proxy",
+      "detail": "True isolation rate requires play-by-play data. AST/FGM captures ball-movement collapse but does not distinguish between unassisted pull-ups and post-ups, nor does it account for hockey assists."
+    }
+  ]
+}

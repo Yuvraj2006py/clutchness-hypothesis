@@ -1,0 +1,14 @@
+{
+  "shot_mix": {
+    "avg_3pa_rate_diff_pct": 0.56,
+    "n_more_3s_in_clutch": 10,
+    "n_fewer_3s_in_clutch": 9,
+    "interpretation": "Shot mix roughly similar \u2014 3PA rate change doesn't explain TS% drop"
+  },
+  "turnover_rate": {
+    "avg_tov_rate_diff_pct": -2.74,
+    "n_more_tov_in_clutch": 1,
+    "n_fewer_tov_in_clutch": 19,
+    "interpretation": "Stars turn it over LESS in clutch \u2014 no added pressure effect"
+  }
+}

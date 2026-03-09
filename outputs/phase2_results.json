@@ -1,0 +1,25 @@
+{
+  "test1_yoy": {
+    "pearson_r": 0.0738,
+    "p_value": 0.0051838,
+    "n_pairs": 1435,
+    "interpretation": "weak"
+  },
+  "test2_sample_size": {
+    "avg_clutch_poss": 34.5,
+    "median_clutch_poss": 25.1,
+    "avg_overall_poss": 817.2,
+    "median_overall_poss": 727.1,
+    "avg_ratio": 0.0372,
+    "median_ratio": 0.0356,
+    "avg_clutch_gp": 23.9,
+    "avg_clutch_min": 73.9
+  },
+  "ts_summary": {
+    "clutch_ts_mean": 0.5609,
+    "clutch_ts_median": 0.5593,
+    "overall_ts_mean": 0.5719,
+    "overall_ts_median": 0.5696,
+    "n_player_seasons": 2192
+  }
+}

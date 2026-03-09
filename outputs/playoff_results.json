@@ -1,0 +1,19 @@
+{
+  "test1_yoy": {
+    "pearson_r": 0.1492,
+    "p_value": 0.32225,
+    "n_pairs": 46,
+    "interpretation": "weak"
+  },
+  "test2_sample_size": {
+    "avg_clutch_poss": 11.9,
+    "avg_ratio": 0.0483,
+    "avg_clutch_gp": 7.3,
+    "avg_clutch_min": 25.6
+  },
+  "ts_summary": {
+    "clutch_ts_mean": 0.5718,
+    "overall_ts_mean": 0.5739,
+    "n_player_seasons": 215
+  }
+}
