@@ -30,6 +30,8 @@ We're not the first to ask. Analytics types have been skeptical for years. But w
 
 **But the ball *does* go to the star.** Every single reputation player took on more offensive load in clutch time. Ja Morant's share of his team's shots more than doubled. Jimmy Butler's did too. Trae Young, Donovan Mitchell, De'Aaron Fox—all spiked 80% or more. The average star gets more clutch shots in one *game* than some role players get in a month—and we still call it a star skill. The star gets the ball. He takes the shot. We remember the makes. ([Chart: The Ball Always Goes to the Star](charts/usage_spike.png))
 
+**Playoffs tell the same story.** We ran the same tests on eight seasons of playoff data. The year-over-year correlation for clutch TS% was **r = 0.15**—still weak, and not statistically significant (p = 0.32). The playoff sample is even smaller: ~12 clutch possessions per player vs. 35 in the regular season. Stars who appear in the playoffs shot worse in clutch there too. If "playoff pressure" were different, we'd expect a different signal. We don't.
+
 ---
 
 ## Wrinkle
@@ -44,7 +46,7 @@ You might say the moment is different—pressure, defense, play-calling. Sure. B
 
 **We forget the misses.** For the three most mythologized clutch players—LeBron, Kyrie, Dame—we calculated their clutch miss rate. LeBron misses 53% of his clutch shots. Kyrie misses 54%. Dame misses **60%**. Six out of ten. We remember the logo three. We forget the five that clanked. ([Chart: What Fans Forget](charts/miss_rate.png))
 
-**The narrative is selective.** We ran the same tests on *everyone*—not just the 22 stars. Among reputation players, only 2 shot meaningfully better in clutch than overall. Among non-stars with at least 40 clutch games? **102 players** shot better. Gabe Vincent, Jamal Crawford, Chris Boucher, Derrick Favors—names you don't associate with "clutch"—all outperformed their normal efficiency when it mattered. And 17 non-stars showed *repeatable* clutch performance (r > 0.5 across seasons): Terance Mann, Jaren Jackson Jr., Ricky Rubio, Anfernee Simons, P.J. Tucker. P.J. Tucker had more repeatable clutch numbers across seasons than most of the 22 stars. We never hear about that. ([Chart: The Narrative Is Selective](charts/hidden_clutch.png)) Remember that 0.074? This is why. That 3.7% of possessions? It's not enough to be a skill—but it's enough to build a reputation. Clutch isn't a skill we measure; it's a story we tell about stars. The data is full of "hidden clutch" players. The mythology ignores them.
+**The narrative is selective.** We ran the same tests on *everyone*—not just the 22 stars. Among reputation players, only 3 shot meaningfully better in clutch than overall. Among non-stars with at least 40 clutch games? **102 players** shot better. Gabe Vincent, Jamal Crawford, Chris Boucher, Derrick Favors—names you don't associate with "clutch"—all outperformed their normal efficiency when it mattered. And 17 non-stars showed *repeatable* clutch performance (r > 0.5 across seasons): Terance Mann, Jaren Jackson Jr., Ricky Rubio, Anfernee Simons, P.J. Tucker. P.J. Tucker had more repeatable clutch numbers across seasons than most of the 22 stars. We never hear about that. ([Chart: The Narrative Is Selective](charts/hidden_clutch.png)) Remember that 0.074? This is why. That 3.7% of possessions? It's not enough to be a skill—but it's enough to build a reputation. Clutch isn't a skill we measure; it's a story we tell about stars. The data is full of "hidden clutch" players. The mythology ignores them.
 
 **They don't choke on the ball.** If pressure hurt, we'd expect more turnovers. We found the opposite: 19 of 22 stars turn it over *less* in clutch than in their normal game. Chris Paul, Westbrook, Durant, LeBron—all protect the ball better when it matters. The TS% drop isn't panic or sloppiness. It's the shots. They just miss more. ([Chart: Stars Protect the Ball Better in Clutch](charts/turnover_rate.png))
 
@@ -59,6 +61,16 @@ Of the 22 reputation players we tracked, only three shot meaningfully *better* i
 Across eight seasons, Paul’s clutch true shooting is **63.5%** versus **58.3%** overall—a **+5.2 percentage point** bump when it matters. Paul George (+2.5) and SGA (+1.3) improve too, but CP3’s gap is the biggest. And unlike many “clutch” names, only **31%** of his clutch points come from the line; his FT-stripped efficiency in clutch (55%) is still above his overall TS%. He’s not propping up the number with late-game foul hunting.
 
 He also protects the ball better in clutch: his turnover rate drops from **14.4%** of possessions overall to **8.1%** in clutch—one of the largest improvements among the 22 stars. So when the game tightens, he’s both more efficient and more secure. Home/road splits fit the same story: **66.1%** clutch TS at home, **60.7%** on the road. The sample is still small enough that we shouldn’t overstate it—but if one star has a statistical case for “clutch” as a real, repeatable edge, it’s him. ([Chart: The Exception — Stars Who Shoot Better in Clutch](charts/clutch_exception_three.png))
+
+---
+
+## The Run That Fits: Tyrese Haliburton 2024-25
+
+Tyrese Haliburton's 2024-25 playoff run was called one of the clutchest we've seen. The numbers back it up—for that run. His clutch true shooting in the playoffs was **59.8%** versus **58.1%** overall—a **+1.7 percentage point** bump when it mattered. Eleven clutch games, 37 points on 27 FGA and 9 FTA. He shot better in clutch than in his normal playoff game. That's real.
+
+Here's the wrinkle: the year before, in the 2023-24 playoffs, Haliburton's clutch TS% was **32.8%**—vs. 62.6% overall. He was *29 percentage points worse* in clutch. Five games, 15 shots. Tiny sample. Noise. But it's the same player, one year apart: 32.8% clutch one playoffs, 59.8% the next. That's not repeatability. That's variance.
+
+The hypothesis isn't "nobody ever shoots well in clutch." It's that clutch performance doesn't *repeat* year-over-year. Haliburton had one great run. If he does it again in 2025-26, we'll have two data points. Until then, 2024-25 stands as a case study: one run can build a narrative. If he regresses next playoffs, we'll forget this one.
 
 ---
 
